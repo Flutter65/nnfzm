@@ -14,7 +14,7 @@ Team Member/Developer
 LunchBox
 
 Ürün Açıklaması
-LunchBox uygulamamız ile kullanıcılarımızın, elinde bulunan malzelerle pişirebilecekleri tarifleri listeleyen bir mobil uygulama ortaya koymayı hedefliyoruz. Uygulama içerisinde erişilen tarifler; pişirme süresi, tarifin zorluk derecesi, kalori değerleri vb. filtrelenebilecektir. 
+LunchBox uygulamamız ile kullanıcılarımızın, elinde bulunan malzemelerle pişirebilecekleri tarifleri listeleyen bir mobil uygulama ortaya koymayı hedefliyoruz. Uygulama içerisinde erişilen tarifler; pişirme süresi, tarifin zorluk derecesi, kalori değerleri vb. filtrelenebilecektir. 
 
 Ürün Özellikleri
 Kullanıcın mevcut malzemeleriyle yapılabilecek tarifleri eşleştirme
