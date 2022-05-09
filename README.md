@@ -10,13 +10,13 @@
 <br />
 
 ## Takım Elemanları
--Product Owner
--Scrum Master
--Team Member/Developer
+- Product Owner
+- Scrum Master
+- Team Member/Developer
 <br />
 
 ## Ürün İsmi
--LunchBox
+- LunchBox
 <br />
 
 ## Ürün Açıklaması
@@ -24,20 +24,20 @@ LunchBox uygulamamız ile kullanıcılarımızın, elinde bulunan malzemelerle p
 <br />
 
 ## Ürün Özellikleri
--Kullanıcın mevcut malzemeleriyle yapılabilecek tarifleri eşleştirme
--Tariflerin pişirme süresi, zorluk derecesi, kalori değerleri vb. özelliklerini gösterme
--Tariflerin farklı dünya mutfakları olarak kategorizasyonu
--Tarifleri favorileyerek kaydetme özelliği
+- Kullanıcın mevcut malzemeleriyle yapılabilecek tarifleri eşleştirme
+- Tariflerin pişirme süresi, zorluk derecesi, kalori değerleri vb. özelliklerini gösterme
+- Tariflerin farklı dünya mutfakları olarak kategorizasyonu
+- Tarifleri favorileyerek kaydetme özelliği
 <br />
 
 ## Hedef Kitle
--15-65 yaş arası kullanıcılar
--Yemekseverler
--Amatörden profesyonele yemek pişiren herkes
+- 15-65 yaş arası kullanıcılar
+- Yemekseverler
+- Amatörden profesyonele yemek pişiren herkes
 <br />
 
 ## Product Backlog/Ürün İş Listesi [URL]
-JiraBacklogBoard
+[Jira Backlog Board](https://akademi65.atlassian.net/jira/software/projects/LUN/boards/2/backlog)
 <br />
 
 ## Sprint 1
@@ -60,4 +60,3 @@ JiraBacklogBoard
 
 <br />
 
-[JiraBacklogBoard]: https://akademi65.atlassian.net/jira/software/projects/LUN/boards/2/backlog
