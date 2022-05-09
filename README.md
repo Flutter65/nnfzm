@@ -67,6 +67,7 @@ LunchBox uygulamamız ile kullanıcılarımızın, elinde bulunan malzemelerle p
 - Görev dağılımı üzerinde tartışıldı, yeni görev atamaları yapıldı.
 
 - ### Diğer Notlar:
+- N/A
 
 <br />
 
