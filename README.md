@@ -56,8 +56,6 @@ LunchBox uygulamamız ile kullanıcılarımızın, elinde bulunan malzemelerle p
 ![2](https://user-images.githubusercontent.com/105171536/167478824-5ee1ca5b-2c7d-4ca1-85ca-ec709cbf98df.PNG)
 ![finish](https://user-images.githubusercontent.com/105171536/167478859-a7c69394-3386-4c48-98ba-267e62dae8e4.PNG)
 
-- ### Ürün Durumu: 
-
 - ### Sprint Review: 
 - Alınan kararlar: 
 - Uygulamada bulunacak core features tartışıldı. Görev paylaşımları yapıldı. Rakip analizi, pazar araştırması ve SWOT analizi yapıldı. Kod bakımından uygulamaya eklenebilecek özellikler tartışıldı. Uygulama fikri ve tasarımı üzerinde genel taslak çıkartıldı.
