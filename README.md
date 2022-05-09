@@ -41,7 +41,7 @@ LunchBox uygulamamız ile kullanıcılarımızın, elinde bulunan malzemelerle p
 <br />
 
 ## Sprint 1
-- Sprint Notları:
+- ### Sprint Notları:
 - Sprint içinde tamamlanması tahmin edilen puan:
 - Puan tamamlama mantığı:
 - Backlog düzeni ve Story seçimleri:
