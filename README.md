@@ -6,9 +6,9 @@
 <br />
 
 ## Takım Elemanları
-- Product Owner
-- Scrum Master
-- Team Member/Developer
+- Product Owner: Nil Gizem AY
+- Scrum Master: Zehra YENİLMEZ
+- Team Member/Developer: Furkan GÜNGÖR, Muhammed Doğan, Nilay MUTLU
 <br />
 
 ## Ürün İsmi
@@ -37,20 +37,24 @@ LunchBox uygulamamız ile kullanıcılarımızın, elinde bulunan malzemelerle p
 <br />
 
 ## Sprint 1
-- ### Sprint Notları:
-- ### Sprint içinde tamamlanması tahmin edilen puan:
-- ### Puan tamamlama mantığı:
-- ### Backlog düzeni ve Story seçimleri:
+- ### Sprint Notları: Task'ler product backlog'a eklendi. 
+- ### Sprint içinde tamamlanması tahmin edilen puan: 60 puan
+- ### Puan tamamlama mantığı: ÇEvik Çaba Tahmini tekniklerinden hikaye puanlama kullanılarak tassk'lerin önem derecesine göre Fibonacci sayı dizisinden değer atanmıştır. Proje kapsamında tamamlanması gereken toplam puan 275 puan olarak hesaplanmış olup ilk sprint'te en azından 60 puanın tamamlanması gerektiği öngörüldü.
+- ### Backlog düzeni ve Story seçimleri: Product backlogta öncelik önem düzeyine göre belirlenmiştir. Sprint başına atanmış görevlerin tamamlanması hedeflenerek taskler tamamlandı.
 
-- ### Daily Scrum:
+- ### Daily Scrum: Daily scrum toplantıları takım ekibi üyelerinin hazırbulunuşluğuna göre Slack/Whatsapp üzerinden gerçekleştirilmiştir. 
 
-- ### Sprint board update:
+- ### Sprint board update: Sprint Board Screenshotları
 
-- ### Ürün Durumu:
+- ### Ürün Durumu: 
 
-- ### Sprint Review:
+- ### Sprint Review: 
+- Alınan kararlar: Uygulamada bulunacak core features tartışıldı. Görev paylaşımları yapıldı. Rakip analizi, pazar araştırması ve SWOT analizi yapıldı. Kod bakımından uygulamaya eklenebilecek özellikler tartışıldı. Uygulama fikri ve tasarımı üzerinde genel taslak çıkartıldı.
+- Sprint Review katılımcıları: Nil Gizem AY, Furkan GÜNGÖR, Muhammed Doğan, Nilay MUTLU, Zehra YENİLMEZ
 
 - ### Sprint Retrospective:
+- Daily Scrum için daha fazla efor/saat ayrılması kararlaştırıldı.
+- Görev dağılımı üzerinde tartışıldı, yeni görev atamaları yapıldı.
 
 - ### Diğer Notlar:
 
