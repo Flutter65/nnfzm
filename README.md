@@ -37,7 +37,7 @@ LunchBox uygulamamız ile kullanıcılarımızın, elinde bulunan malzemelerle p
 <br />
 
 ## Product Backlog/Ürün İş Listesi [URL]
-Jira Backlog Board
+JiraBacklogBoard
 <br />
 
 ## Sprint 1
@@ -56,8 +56,8 @@ Jira Backlog Board
 
 ### Sprint Retrospective:
 
-## Diğer Notlar:
+### Diğer Notlar:
 
 <br />
 
-[Jira Backlog Board]: https://akademi65.atlassian.net/jira/software/projects/LUN/boards/2/backlog
+[JiraBacklogBoard]: https://akademi65.atlassian.net/jira/software/projects/LUN/boards/2/backlog
