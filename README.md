@@ -42,7 +42,8 @@ LunchBox uygulamamız ile kullanıcılarımızın, elinde bulunan malzemelerle p
 - ### Puan tamamlama mantığı: ÇEvik Çaba Tahmini tekniklerinden hikaye puanlama kullanılarak tassk'lerin önem derecesine göre Fibonacci sayı dizisinden değer atanmıştır. Proje kapsamında tamamlanması gereken toplam puan 275 puan olarak hesaplanmış olup ilk sprint'te en azından 60 puanın tamamlanması gerektiği öngörüldü.
 - ### Backlog düzeni ve Story seçimleri: Product backlogta öncelik önem düzeyine göre belirlenmiştir. Sprint başına atanmış görevlerin tamamlanması hedeflenerek taskler tamamlandı.
 
-- ### Daily Scrum: Daily scrum toplantıları takım ekibi üyelerinin hazırbulunuşluğuna göre Slack/Whatsapp üzerinden gerçekleştirilmiştir. 
+- ### Daily Scrum: Daily scrum toplantıları takım ekibi üyelerinin hazırbulunuşluğuna göre Slack/Whatsapp üzerinden gerçekleştirilmiştir. [Daily Scrum File] [Flutter65.docx](https://github.com/Flutter65/nnfzm/files/8654311/Flutter65.docx)
+
 
 - ### Sprint board update: Sprint Board Screenshotları
 
