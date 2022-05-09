@@ -1,8 +1,10 @@
 # nnfzm
-Ana Proje Dosyası
+### Ana Proje Dosyası
 
-Takım İsmi
-/nnfzm
+<br />
+
+## Takım İsmi
+- nnfzm
 
 Ürün İle İlgili Bilgiler
 Takım Elemanları
