@@ -71,3 +71,42 @@ LunchBox uygulamamız ile kullanıcılarımızın, elinde bulunan malzemelerle p
 
 <br />
 
+## Sprint 2
+- ### Sprint Notları: 
+- Sprint 2 başlatılmıştır. Görevler tartışılarak ekip üyelerine atanmıştır. Product Backlog'da sprint akışı görülebilir.
+- ### Sprint içinde tamamlanması tahmin edilen puan: 
+-  120 puan
+- ### Puan tamamlama mantığı: 
+- Çevik Çaba Tahmini tekniklerinden hikaye puanlama kullanılarak tassk'lerin önem derecesine göre Fibonacci sayı dizisinden değer atanmıştır. Proje kapsamında tamamlanması gereken toplam puan 275 puan olarak hesaplanmış olup ikinci sprint'te en azından 120 puanın tamamlanması gerektiği öngörüldü.
+- ### Backlog düzeni ve Story seçimleri: 
+- Product backlogta öncelik önem düzeyine göre belirlenmiştir. Sprint başına atanmış görevlerin tamamlanması hedeflenerek taskler tamamlandı.
+
+- ### Daily Scrum: 
+- Daily scrum toplantıları takım ekibi üyelerinin hazırbulunuşluğuna göre Slack/Whatsapp üzerinden gerçekleştirilmiştir.[Flutter65.docx](https://github.com/Flutter65/nnfzm/files/8750163/Sprint-2.docx)
+
+
+- ### Sprint board update: 
+- Sprint Board Screenshotları
+![sprint2](https://user-images.githubusercontent.com/105171536/169712995-02561790-bf5f-41c5-a5fb-a9942065b55a.PNG)
+
+- ### Sprint Review: 
+- Alınan kararlar: 
+- Uygulamanın yapılabilirliği tartışıldı. Uygulamada bulunacak son özellikler kararlaştırıldı ve kodlama başlandı.
+- Tema ve arayüz tartışıldı. Tema renkleri kararlaştırıldı.
+- Sprint süresince kodlama tasklerine yoğunlaşılması kararlaştırıldı. 
+- Github'ta kütüphane araştırıldı.
+- Tarif reposu oluşturuldu. 
+
+- Sprint Review katılımcıları: 
+- Nil Gizem AY, Furkan GÜNGÖR, Muhammed Doğan, Nilay MUTLU, Zehra YENİLMEZ
+
+- ### Sprint Retrospective:
+- Daily Scrum için daha fazla efor/saat ayrılması kararlaştırıldı.
+- 
+
+- ### Diğer Notlar:
+- N/A
+
+<br />
+
+
