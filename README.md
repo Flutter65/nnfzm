@@ -90,6 +90,15 @@ LunchBox uygulamamız ile kullanıcılarımızın, elinde bulunan malzemelerle p
 - Sprint Board Screenshotları
 ![sprint2](https://user-images.githubusercontent.com/105171536/169712995-02561790-bf5f-41c5-a5fb-a9942065b55a.PNG)
 
+
+- ### Ürün Durumu:
+-![üründurumu1](https://user-images.githubusercontent.com/105171536/169713455-ac2de374-6d92-488d-af63-542a4126f6e0.jpeg)
+![üründurumu2](https://user-images.githubusercontent.com/105171536/169713458-30bc15c9-6a14-44c5-8c7f-bc2728a19a30.jpeg)
+![üründurumu3](https://user-images.githubusercontent.com/105171536/169713459-3cce391f-50c8-4f99-a6bf-b7a1d22dfcbf.jpeg)
+![üründurumu4](https://user-images.githubusercontent.com/105171536/169713461-27cff559-fd66-4c01-a451-3ffee4b0f422.jpeg)
+
+
+
 - ### Sprint Review: 
 - Alınan kararlar: 
 - Uygulamanın yapılabilirliği tartışıldı. Uygulamada bulunacak son özellikler kararlaştırıldı ve kodlama başlandı.
