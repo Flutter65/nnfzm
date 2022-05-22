@@ -42,7 +42,7 @@ LunchBox uygulamamız ile kullanıcılarımızın, elinde bulunan malzemelerle p
 - ### Sprint içinde tamamlanması tahmin edilen puan: 
 - 60 puan
 - ### Puan tamamlama mantığı: 
-- Çevik Çaba Tahmini tekniklerinden hikaye puanlama kullanılarak tassk'lerin önem derecesine göre Fibonacci sayı dizisinden değer atanmıştır. Proje kapsamında tamamlanması gereken toplam puan 275 puan olarak hesaplanmış olup ilk sprint'te en azından 60 puanın tamamlanması gerektiği öngörüldü.
+- Çevik Çaba Tahmini tekniklerinden hikaye puanlama kullanılarak task'lerin önem derecesine göre Fibonacci sayı dizisinden değer atanmıştır. Proje kapsamında tamamlanması gereken toplam puan 275 puan olarak hesaplanmış olup ilk sprint'te en azından 60 puanın tamamlanması gerektiği öngörüldü.
 - ### Backlog düzeni ve Story seçimleri: 
 - Product backlogta öncelik önem düzeyine göre belirlenmiştir. Sprint başına atanmış görevlerin tamamlanması hedeflenerek taskler tamamlandı.
 
@@ -59,6 +59,7 @@ LunchBox uygulamamız ile kullanıcılarımızın, elinde bulunan malzemelerle p
 - ### Sprint Review: 
 - Alınan kararlar: 
 - Uygulamada bulunacak core features tartışıldı. Görev paylaşımları yapıldı. Rakip analizi, pazar araştırması ve SWOT analizi yapıldı. Kod bakımından uygulamaya eklenebilecek özellikler tartışıldı. Uygulama fikri ve tasarımı üzerinde genel taslak çıkartıldı.
+
 - Sprint Review katılımcıları: 
 - Nil Gizem AY, Furkan GÜNGÖR, Muhammed Doğan, Nilay MUTLU, Zehra YENİLMEZ
 
@@ -77,7 +78,7 @@ LunchBox uygulamamız ile kullanıcılarımızın, elinde bulunan malzemelerle p
 - ### Sprint içinde tamamlanması tahmin edilen puan: 
 -  120 puan
 - ### Puan tamamlama mantığı: 
-- Çevik Çaba Tahmini tekniklerinden hikaye puanlama kullanılarak tassk'lerin önem derecesine göre Fibonacci sayı dizisinden değer atanmıştır. Proje kapsamında tamamlanması gereken toplam puan 275 puan olarak hesaplanmış olup ikinci sprint'te en azından 120 puanın tamamlanması gerektiği öngörüldü.
+- Çevik Çaba Tahmini tekniklerinden hikaye puanlama kullanılarak task'lerin önem derecesine göre Fibonacci sayı dizisinden değer atanmıştır. Proje kapsamında tamamlanması gereken toplam puan 275 puan olarak hesaplanmış olup ikinci sprint'te en azından 120 puanın tamamlanması gerektiği öngörüldü.
 - ### Backlog düzeni ve Story seçimleri: 
 - Product backlogta öncelik önem düzeyine göre belirlenmiştir. Sprint başına atanmış görevlerin tamamlanması hedeflenerek taskler tamamlandı.
 
