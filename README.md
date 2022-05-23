@@ -89,6 +89,8 @@ LunchBox uygulamamız ile kullanıcılarımızın, elinde bulunan malzemelerle p
 - ### Sprint board update: 
 - Sprint Board Screenshotları
 ![sprint2](https://user-images.githubusercontent.com/105171536/169712995-02561790-bf5f-41c5-a5fb-a9942065b55a.PNG)
+![sprint22](https://user-images.githubusercontent.com/105171536/169898469-856a15f7-edee-4008-ae1e-d76dca9f2917.PNG)
+![sprint222](https://user-images.githubusercontent.com/105171536/169898474-8671cc8c-5ef8-439f-9c39-de563ce490f1.PNG)
 
 
 - ### Ürün Durumu:
@@ -112,7 +114,8 @@ LunchBox uygulamamız ile kullanıcılarımızın, elinde bulunan malzemelerle p
 
 - ### Sprint Retrospective:
 - Daily Scrum için daha fazla efor/saat ayrılması kararlaştırıldı.
-- 
+- Rejected olan taskler üzerinde tartışıldı. 
+- Uygulama hedefleri üzerinde duruldu, özellikleri nihai olarak kararlaştırıldı, konulan hedeflerin yapılabilirliği üzerinde duruldu. 
 
 - ### Diğer Notlar:
 - N/A
