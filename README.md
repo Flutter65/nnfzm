@@ -116,6 +116,7 @@ LunchBox uygulamamız ile kullanıcılarımızın, elinde bulunan malzemelerle p
 - Daily Scrum için daha fazla efor/saat ayrılması kararlaştırıldı.
 - Rejected olan taskler üzerinde tartışıldı. 
 - Uygulama hedefleri üzerinde duruldu, özellikleri nihai olarak kararlaştırıldı, konulan hedeflerin yapılabilirliği üzerinde duruldu. 
+- Kodlama için efor artırılmalı ve kodlama üzerinde yoğunlaşılmalı.
 
 - ### Diğer Notlar:
 - N/A
