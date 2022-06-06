@@ -156,6 +156,16 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.7.0"
+<<<<<<< Updated upstream
+=======
+  mime:
+    dependency: transitive
+    description:
+      name: mime
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "1.0.2"
+>>>>>>> Stashed changes
   path:
     dependency: transitive
     description:
@@ -233,6 +243,16 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "4.2.4"
+<<<<<<< Updated upstream
+=======
+  share:
+    dependency: "direct main"
+    description:
+      name: share
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "2.0.4"
+>>>>>>> Stashed changes
   sky_engine:
     dependency: transitive
     description: flutter
