@@ -148,7 +148,8 @@ LunchBox uygulamamız ile kullanıcılarımızın, elinde bulunan malzemelerle p
 - ### Sprint Review: 
 - Alınan kararlar: 
 - Kod kısmında firebase, api, scroll vb. özellikler üzerinde yoğunlaşıldı.
-- Tema ve arayüz tasarımı üzerinde roundedbox, tema renkleri vb. iyileştirmeler yapıldı. 
+- Tema ve arayüz tasarımı üzerinde roundedbox, tema renkleri, fontlar vb. iyileştirmeler yapıldı. 
+- Proje teslimi için son revizeler tamamlandı.
 
 - Sprint Review katılımcıları: 
 - Nil Gizem AY, Furkan GÜNGÖR, Muhammed Doğan, Nilay MUTLU, Zehra YENİLMEZ
