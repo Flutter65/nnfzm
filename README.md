@@ -134,11 +134,13 @@ LunchBox uygulamamız ile kullanıcılarımızın, elinde bulunan malzemelerle p
 - Product backlogta öncelik önem düzeyine göre belirlenmiştir. Sprint başına atanmış görevlerin tamamlanması hedeflenerek taskler tamamlandı.
 
 - ### Daily Scrum: 
-- Daily scrum toplantıları takım ekibi üyelerinin hazırbulunuşluğuna göre Slack/Whatsapp üzerinden gerçekleştirilmiştir.[Flutter65.docx]
+- Daily scrum toplantıları takım ekibi üyelerinin hazırbulunuşluğuna göre Slack/Whatsapp üzerinden gerçekleştirilmiştir.[Flutter65.docx][sprint 3.docx](https://github.com/Flutter65/nnfzm/files/8847824/sprint.3.docx)
+
 
 - ### Sprint board update: 
 - Sprint Board Screenshotları
-
+![sprint1](https://user-images.githubusercontent.com/105171536/172244101-e18000d5-783b-4962-bc43-061f990999e6.PNG)
+![sprint3](https://user-images.githubusercontent.com/105171536/172244106-19ca1fd6-3311-4fe0-b2d4-6f224fa064a6.PNG)
 
 - ### Ürün Durumu:
 
@@ -147,7 +149,6 @@ LunchBox uygulamamız ile kullanıcılarımızın, elinde bulunan malzemelerle p
 - Alınan kararlar: 
 - Kod kısmında firebase, api, scroll vb. özellikler üzerinde yoğunlaşıldı.
 - Tema ve arayüz tasarımı üzerinde roundedbox, tema renkleri vb. iyileştirmeler yapıldı. 
-- 
 
 - Sprint Review katılımcıları: 
 - Nil Gizem AY, Furkan GÜNGÖR, Muhammed Doğan, Nilay MUTLU, Zehra YENİLMEZ
