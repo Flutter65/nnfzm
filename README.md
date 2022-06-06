@@ -123,4 +123,41 @@ LunchBox uygulamamız ile kullanıcılarımızın, elinde bulunan malzemelerle p
 
 <br />
 
+## Sprint 3
+- ### Sprint Notları: 
+- Sprint 3 başlatılmıştır. Görevler tartışılarak ekip üyelerine atanmıştır. Product Backlog'da sprint akışı görülebilir.
+- ### Sprint içinde tamamlanması tahmin edilen puan: 
+-  110 puan
+- ### Puan tamamlama mantığı: 
+- Çevik Çaba Tahmini tekniklerinden hikaye puanlama kullanılarak task'lerin önem derecesine göre Fibonacci sayı dizisinden değer atanmıştır. Proje kapsamında tamamlanması gereken toplam puan 275 puan olarak hesaplanmış olup üçüncü sprint'te en azından 110 puanın tamamlanması gerektiği öngörüldü.
+- ### Backlog düzeni ve Story seçimleri: 
+- Product backlogta öncelik önem düzeyine göre belirlenmiştir. Sprint başına atanmış görevlerin tamamlanması hedeflenerek taskler tamamlandı.
+
+- ### Daily Scrum: 
+- Daily scrum toplantıları takım ekibi üyelerinin hazırbulunuşluğuna göre Slack/Whatsapp üzerinden gerçekleştirilmiştir.[Flutter65.docx]
+
+- ### Sprint board update: 
+- Sprint Board Screenshotları
+
+
+- ### Ürün Durumu:
+
+
+- ### Sprint Review: 
+- Alınan kararlar: 
+- Kod kısmında firebase, api, scroll vb. özellikler üzerinde yoğunlaşıldı.
+- Tema ve arayüz tasarımı üzerinde roundedbox, tema renkleri vb. iyileştirmeler yapıldı. 
+- 
+
+- Sprint Review katılımcıları: 
+- Nil Gizem AY, Furkan GÜNGÖR, Muhammed Doğan, Nilay MUTLU, Zehra YENİLMEZ
+
+- ### Sprint Retrospective:
+- Proje teslimi gereklilikleri teslimi üzerinde konuşuldu.
+- Rejected olan taskler üzerinde tartışıldı. 
+- Nihai özellikler üzerinde yoğunlaşılması ve ekip üyelerinin daha fazla efor sarf etmesi gerektiği üzerinde duruldu.
+
+- ### Diğer Notlar:
+- N/A
+
 
