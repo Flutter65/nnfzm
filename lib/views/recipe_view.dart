@@ -4,10 +4,7 @@ import 'dart:io';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-<<<<<<< Updated upstream
-=======
 import 'package:share/share.dart';
->>>>>>> Stashed changes
 import 'package:webview_flutter/webview_flutter.dart';
 
 class RecipeView extends StatefulWidget {
@@ -36,33 +33,6 @@ class _RecipeViewState extends State<RecipeView> {
   }
   @override
   Widget build(BuildContext context) {
-<<<<<<< Updated upstream
-    return Scaffold(
-      resizeToAvoidBottomInset: false,
-      body: Container(
-        color: Colors.blueGrey,
-        child: Column(
-          children: [
-            Container(
-              padding: EdgeInsets.only(top: Platform.isIOS? 60:30,
-                  right: 25, left: 25, bottom: 15),
-              color: Colors.lightGreen,
-              width:  MediaQuery.of(context).size.width,
-              child: Row(
-                mainAxisAlignment: kIsWeb ? MainAxisAlignment.start: MainAxisAlignment.center,
-                children: [
-                  Text(
-                    "LunchBox", style: TextStyle(
-                    fontSize: 30,
-                    fontWeight: FontWeight.w600,
-                    color: Colors.amberAccent,
-                  ),
-                  ),
-                ],
-              ),
-            ),
-            Container(
-=======
     var safePadding = MediaQuery.of(context).padding.top;
     return Scaffold(
       appBar: AppBar(
@@ -72,12 +42,12 @@ class _RecipeViewState extends State<RecipeView> {
               bottom:Radius.circular(20)),
         ),
 
-        title: Text('LunchBox'),
+        title: const Text('LunchBox'),
         centerTitle: true,
         //backgroundColor: Colors.grey,
 
         flexibleSpace: Container(
-          decoration: BoxDecoration(
+          decoration: const BoxDecoration(
             gradient: LinearGradient(
               colors: [Colors.grey, Colors.indigoAccent],
               begin: Alignment.bottomLeft,
@@ -88,7 +58,7 @@ class _RecipeViewState extends State<RecipeView> {
         elevation: 50,
 
         leading: IconButton(
-          icon: Icon(Icons.menu),
+          icon: const Icon(Icons.menu),
           onPressed: (){
             print('Ayarlar Butonu');
           },
@@ -102,13 +72,13 @@ class _RecipeViewState extends State<RecipeView> {
               Share.share(finalurl
               );
               },
-              icon: Icon(Icons.share),
+              icon: const Icon(Icons.share),
           ),
           IconButton(
               color: Colors.red.shade400,
               onPressed: (){
               },
-              icon:Icon(Icons.search_sharp)
+              icon:const Icon(Icons.search_sharp)
           ),
         ],
       ),
@@ -116,14 +86,13 @@ class _RecipeViewState extends State<RecipeView> {
         onPressed: () {
           print('Paylaşma aksiyonu');
         },
-        child: Text('Paylaş!'),
+        child: const Text('Paylaş!'),
         backgroundColor: Colors.redAccent[500],
       ),
       resizeToAvoidBottomInset: false,
       body: Container(
         color: Colors.blueGrey,
         child:Container(
->>>>>>> Stashed changes
               height: MediaQuery.of(context).size.height - 80,
               width: MediaQuery.of(context).size.width,
               child: WebView(
@@ -135,11 +104,6 @@ class _RecipeViewState extends State<RecipeView> {
                   });
                 }),
             ),
-<<<<<<< Updated upstream
-          ],
-        ),
-=======
->>>>>>> Stashed changes
       ),
     );
   }

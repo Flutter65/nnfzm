@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:lunchbox2/views/home.dart';
-import 'package:lunchbox2/views/recipe_view.dart';
+import 'package:lunchbox/views/home.dart';
+import 'package:lunchbox/views/recipe_view.dart';
 
 void main(){
   runApp(MyApp());
